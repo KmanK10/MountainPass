@@ -38,3 +38,6 @@ A sample CSV file might look like:
 ## Dependencies
 - Java Standard Library
 - `DrawingPanel` class (included or available from the project repository)
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
